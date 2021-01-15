@@ -2,7 +2,7 @@
 
 ### GUI For ordering food
 
-## Prerquisite ##
+## Prerequisite ##
 
   * MYSQL basics
   * Tkinter
